@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\PictureShowDemo\PictureShowDemo\bin\Debug\PictureShowDemo.exe.config
+C:\Users\admin\source\repos\PictureShowDemo\PictureShowDemo\bin\Debug\PictureShowDemo.exe
+C:\Users\admin\source\repos\PictureShowDemo\PictureShowDemo\bin\Debug\PictureShowDemo.pdb
+C:\Users\admin\source\repos\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.Properties.Resources.resources
+C:\Users\admin\source\repos\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.exe
+C:\Users\admin\source\repos\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.pdb
+C:\Users\admin\source\repos\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.Form2.resources
+C:\Users\admin\source\repos\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.UCShowLongPicture.resources
