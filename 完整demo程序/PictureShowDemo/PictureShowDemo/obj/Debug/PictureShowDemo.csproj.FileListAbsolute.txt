@@ -9,3 +9,14 @@ C:\Users\admin\source\repos\PictureShowDemo\PictureShowDemo\obj\Debug\PictureSho
 C:\Users\admin\source\repos\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.pdb
 C:\Users\admin\source\repos\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.Form2.resources
 C:\Users\admin\source\repos\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.UCShowLongPicture.resources
+F:\Temp\LongPicture\完整demo程序\PictureShowDemo\PictureShowDemo\bin\Debug\PictureShowDemo.exe.config
+F:\Temp\LongPicture\完整demo程序\PictureShowDemo\PictureShowDemo\bin\Debug\PictureShowDemo.exe
+F:\Temp\LongPicture\完整demo程序\PictureShowDemo\PictureShowDemo\bin\Debug\PictureShowDemo.pdb
+F:\Temp\LongPicture\完整demo程序\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.csproj.AssemblyReference.cache
+F:\Temp\LongPicture\完整demo程序\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.Form2.resources
+F:\Temp\LongPicture\完整demo程序\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.Properties.Resources.resources
+F:\Temp\LongPicture\完整demo程序\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.UCShowLongPicture.resources
+F:\Temp\LongPicture\完整demo程序\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.csproj.GenerateResource.cache
+F:\Temp\LongPicture\完整demo程序\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.csproj.CoreCompileInputs.cache
+F:\Temp\LongPicture\完整demo程序\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.exe
+F:\Temp\LongPicture\完整demo程序\PictureShowDemo\PictureShowDemo\obj\Debug\PictureShowDemo.pdb

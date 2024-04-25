@@ -27,7 +27,7 @@ namespace PictureShowDemo
         private void Form2_Load(object sender, EventArgs e)
         {
             UCShowLongPicture longPicture = new UCShowLongPicture(MainPanel.Width, MainPanel.Height);
-            longPicture.SetImageParameter(@"C:\Users\admin\Pictures\Saved Pictures\test.jpg", 400, 300);
+            longPicture.SetImageParameter(@"F:\Temp\LongPicture\完整demo程序\test.jpg", 400, 300);
             AddControlsToPanel(longPicture, MainPanel);
         }
     }
